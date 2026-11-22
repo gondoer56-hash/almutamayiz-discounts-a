@@ -1,0 +1,17 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "المتميز للتخفيضات",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "المتميز",
+  "start_url": "https://gondoer56-hash.github.io/almutamayiz-discounts-a/",
+  "theme_color": "#d1ab2e",
+  "description": "تطبيق المتميز للتخفيضات، تسوق المنتجات والعروض المميزة بسهولة، واستمتع بتجربة تسوق عربية بسيطة وسريعة.",
+  "id": "https://gondoer56-hash.github.io/almutamayiz-discounts-a/",
+  "categories": [
+    "shopping"
+  ],
+  "lang": "ar"
+}
